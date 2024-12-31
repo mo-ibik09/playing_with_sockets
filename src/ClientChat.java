@@ -37,6 +37,7 @@ public class ClientChat extends Application{
         Button buttonConnect = new Button("Connect");
 
 
+
         HBox hBox = new HBox();hBox.setSpacing(10);hBox.setPadding(new Insets(10));
 
         hBox.setBackground(new Background(new BackgroundFill(Color.ORANGE,null,null)));
